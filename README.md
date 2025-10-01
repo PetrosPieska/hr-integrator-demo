@@ -27,6 +27,15 @@ Tämä demo on **taidonnäyte integraatio-osaamisesta**. Se simuloi kahden HR-j�
 - **.NET 8 SDK (C#)** (CSV-käsittely, tiedostojono)
 - **Windows PowerShell / VS Code** kehitysympäristönä
 
+## Demo Output
+
+![Demo Output](demo_valmis.png)
+
+Kuten kuvasta näkyy:
+- CSV kirjoitettiin onnistuneesti
+- Odotettiin HR B:n vastausta
+- Integraatio onnistui (`synced`)
+
 ---
 
 ## Käynnistys
