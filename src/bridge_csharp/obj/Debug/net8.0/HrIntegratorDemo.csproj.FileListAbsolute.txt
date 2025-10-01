@@ -1,0 +1,17 @@
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\HrIntegratorDemo.csproj.AssemblyReference.cache
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\HrIntegratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\HrIntegratorDemo.AssemblyInfoInputs.cache
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\HrIntegratorDemo.AssemblyInfo.cs
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\HrIntegratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\bin\Debug\net8.0\HrIntegratorDemo.exe
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\bin\Debug\net8.0\HrIntegratorDemo.deps.json
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\bin\Debug\net8.0\HrIntegratorDemo.runtimeconfig.json
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\bin\Debug\net8.0\HrIntegratorDemo.dll
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\bin\Debug\net8.0\HrIntegratorDemo.pdb
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\HrIntegr.C3613333.Up2Date
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\HrIntegratorDemo.dll
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\refint\HrIntegratorDemo.dll
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\HrIntegratorDemo.pdb
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\HrIntegratorDemo.genruntimeconfig.cache
+C:\Users\petro\Desktop\hr-integrator-demo\src\bridge_csharp\obj\Debug\net8.0\ref\HrIntegratorDemo.dll

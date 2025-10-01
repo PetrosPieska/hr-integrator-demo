@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qd1/A+iH5LY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petro\\Desktop\\hr-integrator-demo\\src\\bridge_csharp\\HrIntegratorDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petro\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
